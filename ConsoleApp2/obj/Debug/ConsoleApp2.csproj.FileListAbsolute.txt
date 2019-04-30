@@ -1,0 +1,20 @@
+C:\Users\sergiopc\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\sergiopc\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\sergiopc\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\sergiopc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\sergiopc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\sergiopc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\sergiopc\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\sergiopc\source\repos\modificaciones para ser 0\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\sergiopc\source\repos\modificaciones para ser 0\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\sergiopc\source\repos\modificaciones para ser 0\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\sergiopc\source\repos\modificaciones para ser 0\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\sergiopc\source\repos\modificaciones para ser 0\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\sergiopc\source\repos\modificaciones para ser 0\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\sergiopc\source\repos\memoria-peliculas-musica-imagenes-otros\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\sergiopc\source\repos\memoria-peliculas-musica-imagenes-otros\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\sergiopc\source\repos\memoria-peliculas-musica-imagenes-otros\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\sergiopc\source\repos\memoria-peliculas-musica-imagenes-otros\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\sergiopc\source\repos\memoria-peliculas-musica-imagenes-otros\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\sergiopc\source\repos\memoria-peliculas-musica-imagenes-otros\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\sergiopc\source\repos\memoria-peliculas-musica-imagenes-otros\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
